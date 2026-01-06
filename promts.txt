@@ -1,0 +1,21 @@
+1. Hero Banner Prompt:
+Hero banner for ALT AI ASSISTANT website, modern AI startup,
+minimalist tech style, clean light background,
+wide composition, soft natural lighting,
+negative space at the top for logo placement,
+professional design, ultra high quality, 4k
+
+2. Product Image Prompt:
+ALT AI ASSISTANT mobile app interface mockup,
+AI chatbot assistant on smartphone screen,
+centered composition, clean minimal background,
+sharp UI details, soft studio lighting,
+modern tech product style, high realism, 4k quality
+
+3. Creative Poster Prompt:
+Creative poster for ALT AI ASSISTANT,
+futuristic AI assistant concept,
+glowing neural network elements,
+dark gradient background, cinematic lighting,
+inspiring and innovative mood,
+high detail, HD, creative composition
